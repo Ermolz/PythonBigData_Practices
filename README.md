@@ -6,3 +6,9 @@ This repository is used for storing practice materials from the **Python Big Dat
 
 ## 🔹 First Practice 
 **First Practice** – [GitHub Repository](https://github.com/Ermolz/hello-world.git)
+
+## 🔹 Second Practice 
+**Second Practice** – [GitHub Repository](https://github.com/Ermolz/PythonBigData_Practices/tree/practice_02)
+
+## 🔹 Third Practice 
+**Third Practice** – [GitHub Repository](https://github.com/Ermolz/PythonBigData_Practices/tree/practice_3)
