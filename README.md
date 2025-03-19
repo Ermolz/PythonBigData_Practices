@@ -12,3 +12,9 @@ This repository is used for storing practice materials from the **Python Big Dat
 
 ## 🔹 Third Practice 
 **Third Practice** – [GitHub Repository](https://github.com/Ermolz/PythonBigData_Practices/tree/practice_3)
+
+## 🔹 Fourth Practice 
+**Fourth Practice** – [GitHub Repository](https://github.com/Ermolz/PythonBigData_Practices/tree/practice_04)
+
+## 🔹 Fifth Practice 
+**Fifth Practice** – [GitHub Repository](https://github.com/Ermolz/PythonBigData_Practices/tree/practice_05)
